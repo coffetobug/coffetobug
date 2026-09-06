@@ -136,17 +136,27 @@ width="90%"
 
 ## Conhecimentos
 
-```text
-HTML          ███████████████████░   90%
-CSS           ██████████████████░░   85%
-JavaScript    ███████████████░░░░░   75%
-Git           ██████████████░░░░░░   70%
-API           █████████████░░░░░░░   65%
-Tailwind CSS  █████████████░░░░░░░   65%
-Vue.js        ███████████░░░░░░░░░   55%
-Angular       ██████████░░░░░░░░░░   50%
-Insomnia      ███████████░░░░░░░░░   55%
-```
+<p align="center">
+
+<img src="https://progress-bar.xyz/90/?title=HTML&width=400&color=FF1493&progress_background=1a1a2e" />
+
+<img src="https://progress-bar.xyz/85/?title=CSS&width=400&color=FF1493&progress_background=1a1a2e" />
+
+<img src="https://progress-bar.xyz/75/?title=JavaScript&width=400&color=FF1493&progress_background=1a1a2e" />
+
+<img src="https://progress-bar.xyz/70/?title=Git&width=400&color=FF1493&progress_background=1a1a2e" />
+
+<img src="https://progress-bar.xyz/65/?title=API&width=400&color=FF1493&progress_background=1a1a2e" />
+
+<img src="https://progress-bar.xyz/65/?title=Tailwind%20CSS&width=400&color=FF1493&progress_background=1a1a2e" />
+
+<img src="https://progress-bar.xyz/55/?title=Vue.js&width=400&color=FF1493&progress_background=1a1a2e" />
+
+<img src="https://progress-bar.xyz/50/?title=Angular&width=400&color=FF1493&progress_background=1a1a2e" />
+
+<img src="https://progress-bar.xyz/55/?title=Insomnia&width=400&color=FF1493&progress_background=1a1a2e" />
+
+</p>
 
 <br>
 
