@@ -357,10 +357,12 @@ width="90%"
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=coffetobug&bg_color=0d1117&color=FF1493&line=9B30FF&point=ffffff&area=true&hide_border=true"
+src="https://github-readme-activity-graph.vercel.app/graph?username=coffetobug&bg_color=0d1117&color=FF1493&line=9B30FF&point=4169E1&area=true&hide_border=true"
 width="95%"
 alt="GitHub Activity"
 />
+
+</div>
 
 </div>
 
