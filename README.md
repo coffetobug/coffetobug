@@ -83,20 +83,17 @@ alt="Technologies"
 
 <br>
 
-<div align="left">
-
-<img
-src="https://img.shields.io/badge/API-FF1493?style=for-the-badge&logoColor=white"
-alt="API"
-/>
-
-&nbsp;&nbsp;
-
-<img
-src="https://img.shields.io/badge/Insomnia-9B30FF?style=for-the-badge&logo=insomnia&logoColor=white"
-alt="Insomnia"
-/>
-
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/API-FF1493?style=for-the-badge&logoColor=white"
+    alt="API"
+  >
+  &nbsp;&nbsp;&nbsp;
+  <img
+    src="https://img.shields.io/badge/Insomnia-9B30FF?style=for-the-badge&logo=insomnia&logoColor=white"
+    alt="Insomnia"
+  >
+</p>
 </div>
 
 </div>
