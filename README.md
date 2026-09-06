@@ -6,7 +6,7 @@
 
 <br>
 
-## 💗 Sobre mim
+## Sobre mim
 
 <div align="center">
 
@@ -36,7 +36,7 @@
 
 ---
 
-## 🌷 Tecnologias 
+##  Tecnologias 
 
 <div align="center">
 
@@ -61,7 +61,7 @@
 
 ---
 
-## 💻 Minhas tecnologias
+##  Minhas tecnologias
 
 ```text
 HTML          ███████████████████░   90%
@@ -85,7 +85,7 @@ Insomnia      ███████████░░░░░░░░░   55%
 
 ---
 
-## 🎀 Sobre mim
+## Sobre mim
 
 <div align="center">
 
@@ -116,27 +116,27 @@ const yalla = {
 
 ---
 
-## 🌸 O que estou fazendo atualmente
+##  O que estou fazendo atualmente
 
 <div align="center">
 
-### ✨ Criando projetos Front-End
+### Criando projetos Front-End
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=700&color=FF1493&center=true&vCenter=true&width=550&lines=Construindo+interfaces+%F0%9F%8E%A8"/>
 
-### 💻 Praticando HTML, CSS e JavaScript
+### Praticando HTML, CSS e JavaScript
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=700&color=FF69B4&center=true&vCenter=true&width=550&lines=Transformando+ideias+em+c%C3%B3digo+%F0%9F%92%97"/>
 
-### 🔌 Aprendendo e consumindo APIs
+###  Aprendendo e consumindo APIs
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=700&color=FF1493&center=true&vCenter=true&width=550&lines=Conectando+aplica%C3%A7%C3%B5es+%F0%9F%94%8C"/>
 
-### 🎨 UI/UX
+### UI/UX
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=700&color=FF69B4&center=true&vCenter=true&width=550&lines=Pensando+na+experi%C3%AAncia+do+usu%C3%A1rio+%F0%9F%8C%B8"/>
 
-### ⚡ Aprendendo Vue e Angular
+###  Aprendendo Vue e Angular
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=700&color=FF1493&center=true&vCenter=true&width=550&lines=Explorando+novas+tecnologias+%F0%9F%9A%80"/>
 
@@ -150,7 +150,7 @@ const yalla = {
 
 </div>
 
-## 💖 Meus projetos
+## Meus projetos
 
 <div align="center">
 
@@ -158,13 +158,10 @@ const yalla = {
 
 </div>
 
-> 💡 Troque `SEU-REPOSITORIO` pelo nome de um dos seus projetos.
-
----
 
 <div align="center">
 
-## 🌐 Onde me encontrar
+##  Onde me encontrar
 
 <br>
 
@@ -193,7 +190,7 @@ const yalla = {
 
 <div align="center">
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <br>
 
@@ -209,7 +206,7 @@ const yalla = {
 
 <div align="center">
 
-## 💗 Minha atividade
+##  Minha atividade
 
 <br>
 
