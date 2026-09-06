@@ -355,9 +355,9 @@ width="90%"
 <div align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=coffetobug&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FF1493&icon_color=9B30FF&text_color=ffffff"
+src="https://coffetobug-github-stats.vercel.app/api?username=coffetobug&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FF1493&icon_color=9B30FF&text_color=ffffff"
 width="95%"
-alt="GitHub Stats"
+alt="GitHub Activity"
 />
 
 </div>
