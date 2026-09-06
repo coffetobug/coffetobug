@@ -128,7 +128,7 @@ width="90%"
 ## Conhecimentos
 
 <p align="left">
-  <img src="./assets/conhecimentos_pink.gif" width="900" alt="Conhecimentos">
+  <img src="./assets/conhecimentos_pink.gif" width="500" alt="Conhecimentos">
 </p>
 <br>
 
