@@ -81,7 +81,7 @@ src="https://skillicons.dev/icons?i=html,css,js,git,tailwind,vue,angular&theme=d
 alt="Technologies"
 />
 
-<br><br>
+<br>
 
 <img
 src="https://img.shields.io/badge/API-FF1493?style=for-the-badge&logoColor=white"
@@ -235,7 +235,7 @@ src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&co
 alt="Projects"
 />
 
-<br><br>
+<br>
 
 <a href="https://github.com/coffetobug">
 
@@ -284,7 +284,7 @@ width="90%"
 
 </div>
 
-<br><br>
+<br>
 
 <img
 src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=1200&color=FF69B4&center=true&vCenter=true&width=500&lines=Let's+connect;Let's+build+something+great"
@@ -376,7 +376,7 @@ src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&pause=1200&co
 alt="Footer Animation"
 />
 
-<br><br>
+<br>
 
 <img
 src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,50:9B30FF,100:4169E1&height=150&section=footer&animation=twinkling"
