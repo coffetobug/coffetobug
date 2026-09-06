@@ -1,18 +1,6 @@
 <p align="center">
   <img src="./assets/topo.gif" width="100%" alt="Yalla Thayana">
 </p>
-<!-- ========================================================= -->
-
-<!--                    HEADER / BANNER                        -->
-
-<!-- ========================================================= -->
-
-<div align="center">
-
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,50:9B30FF,100:4169E1&height=230&section=header&text=YALLA%20THAYANA&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38"
-width="100%"
-/>
 
 <br>
 
