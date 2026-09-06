@@ -136,28 +136,9 @@ width="90%"
 
 ## Conhecimentos
 
-<p align="center">
-
-<img src="https://progress-bar.xyz/90/?title=HTML&width=400&color=FF1493&progress_background=1a1a2e" />
-
-<img src="https://progress-bar.xyz/85/?title=CSS&width=400&color=FF1493&progress_background=1a1a2e" />
-
-<img src="https://progress-bar.xyz/75/?title=JavaScript&width=400&color=FF1493&progress_background=1a1a2e" />
-
-<img src="https://progress-bar.xyz/70/?title=Git&width=400&color=FF1493&progress_background=1a1a2e" />
-
-<img src="https://progress-bar.xyz/65/?title=API&width=400&color=FF1493&progress_background=1a1a2e" />
-
-<img src="https://progress-bar.xyz/65/?title=Tailwind%20CSS&width=400&color=FF1493&progress_background=1a1a2e" />
-
-<img src="https://progress-bar.xyz/55/?title=Vue.js&width=400&color=FF1493&progress_background=1a1a2e" />
-
-<img src="https://progress-bar.xyz/50/?title=Angular&width=400&color=FF1493&progress_background=1a1a2e" />
-
-<img src="https://progress-bar.xyz/55/?title=Insomnia&width=400&color=FF1493&progress_background=1a1a2e" />
-
+<p align="left">
+  <img src="./assets/conhecimentos_pink.gif" width="900" alt="Conhecimentos">
 </p>
-
 <br>
 
 <div align="center">
