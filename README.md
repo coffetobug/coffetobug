@@ -266,41 +266,23 @@ width="90%"
 <!--                         SOCIAL                            -->
 
 <!-- ========================================================= -->
-
 ## Contato
 
 <div align="center">
 
 <a href="https://github.com/coffetobug">
-
-<img
-src="https://img.shields.io/badge/GitHub-FF1493?style=for-the-badge&logo=github&logoColor=white"
-alt="GitHub"
-/>
-
+  <img src="https://img.shields.io/badge/GitHub-FF1493?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
-  
-
+&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/yallathayana">
-
-<img
-src="https://img.shields.io/badge/Instagram-9B30FF?style=for-the-badge&logo=instagram&logoColor=white"
-alt="Instagram"
-/>
-
+  <img src="https://img.shields.io/badge/Instagram-9B30FF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
-
-  
-
+&nbsp;&nbsp;&nbsp;
 <a href="https://discord.com/users/yalla.thayana">
-
-<img
-src="https://img.shields.io/badge/Discord-4169E1?style=for-the-badge&logo=discord&logoColor=white"
-alt="Discord"
-/>
-
+  <img src="https://img.shields.io/badge/Discord-4169E1?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
+
+</div>
 
 <br><br>
 
