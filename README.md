@@ -1,40 +1,5 @@
 <div align="center">
 
-<!-- BANNER ROSA -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&height=220&section=header&text=YALLA%20THAYANA&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%"/>
-
-<!-- GIF ANIMADO -->
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="180"/>
-
-<br>
-
-<!-- TEXTO ANIMADO -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2500&pause=700&color=FF1493&center=true&vCenter=true&width=750&lines=Software+Engineering+Student+%F0%9F%92%BB;Front-End+Developer+%F0%9F%8C%B8;Code+%E2%80%A2+Create+%E2%80%A2+Learn+%E2%80%A2+Repeat+%E2%9C%A8;Welcome+to+my+GitHub!+%F0%9F%92%97"/>
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&height=220&section=header&text=YALLA%20THAYANA&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2500&pause=700&color=FF1493&center=true&vCenter=true&width=750&lines=Software+Engineering+Student+%F0%9F%92%BB;Front-End+Developer+%F0%9F%8C%B8;Code+%E2%80%A2+Create+%E2%80%A2+Learn+%E2%80%A2+Repeat+%E2%9C%A8;Welcome+to+my+GitHub!+%F0%9F%92%97"/>
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-
-</div>
-
----
-
-<div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=%F0%9F%92%97+Ol%C3%A1%2C+eu+sou+a+Yalla!;%F0%9F%8C%B8+Apaixonada+por+tecnologia;%F0%9F%92%BB+Criando+interfaces;%F0%9F%9A%80+Evoluindo+todos+os+dias"/>
 
 </div>
