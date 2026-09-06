@@ -377,10 +377,11 @@ alt="Footer Animation"
 />
 
 <br>
-
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,50:9B30FF,100:4169E1&height=150&section=footer&animation=twinkling"
-width="100%"
-/>
-
+<p align="center">
+  <img 
+    src="./assets/footer.png" 
+    width="100%" 
+    alt="Footer"
+  >
+</p>
 </div>
