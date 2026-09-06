@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./assets/topo.gif" width="100%" alt="Yalla Thayana">
+</p>
 <!-- ========================================================= -->
 
 <!--                    HEADER / BANNER                        -->
