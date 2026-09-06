@@ -319,17 +319,18 @@ width="90%"
 
 <img
 height="180"
-src="https://github-readme-stats.vercel.app/api?username=coffetobug&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=FF1493"
+src="https://coffetobug-github-stats.vercel.app/api?username=coffetobug&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=FF1493"
 alt="GitHub Stats"
 />
 
 <img
 height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=coffetobug&layout=compact&langs_count=8&theme=radical&border_color=9B30FF"
+src="https://coffetobug-github-stats.vercel.app/api/top-langs/?username=coffetobug&layout=compact&langs_count=8&theme=radical&border_color=9B30FF"
 alt="Top Languages"
 />
 
 </div>
+
 
 <br>
 
