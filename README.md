@@ -9,7 +9,7 @@ src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pa
 alt="Typing SVG"
 />
 
-<br><br>
+<br>
 
 <!-- LINHA NEON -->
 
