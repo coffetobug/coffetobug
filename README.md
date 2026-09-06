@@ -125,10 +125,8 @@ width="90%"
 
 <!-- ========================================================= -->
 
-## Conhecimentos
-
 <p align="center">
-  <img src="./assets/conhecimentos_pink.gif" width="900" alt="Conhecimentos">
+  <img src="./assets/conhecimentos_pink.gif" width="700" alt="Conhecimentos">
 </p>
 <br>
 
