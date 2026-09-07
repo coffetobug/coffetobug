@@ -330,8 +330,6 @@ alt="Top Languages"
 />
 
 </div>
-
-
 <br>
 
 <div align="center">
