@@ -45,7 +45,8 @@ alt="About"
 
 |       Área      |              Conhecimento              |
 | :-------------: | :------------------------------------: |
-|     Formação    |         Engenharia de Software         |
+|     Cursando    |         Engenharia de Software         |
+|     Cursando    |          Full Stack SENAI              |
 |       Foco      |                Front-End               |
 | Desenvolvimento |                   Web                  |
 |    Interesse    |                  UI/UX                 |
